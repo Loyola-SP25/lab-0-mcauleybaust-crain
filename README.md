@@ -6,3 +6,13 @@ This lab will get us started with GitHub.
 **Names:** Nyal Mcauley & Colin Baust-Crain
 1. Rugby
 2. CS 151
+
+#### Classes
+ - Plant Physiology
+ - General Physics II
+ - Intro to Computer Science
+ - Modern World
+ - Organic Chemistry II
+
+
+
